@@ -1,0 +1,112 @@
+[
+  {
+    "id": "0",
+    "nombre": "Erik Johannessen Boer",
+    "categoria": "Premium",
+    "saldo": 148661.55,
+    "ultimaTransaccion": "2026-07-10",
+    "sucursal": {
+      "id": 10,
+      "ciudad": "Zaragoza"
+    }
+  },
+  {
+    "id": "1",
+    "nombre": "Luis Díaz",
+    "categoria": "standard",
+    "saldo": 8661.55,
+    "ultimaTransaccion": "2026-03-30",
+    "sucursal": {
+      "id": 15,
+      "ciudad": "Sevilla"
+    }
+  },
+  {
+    "id": "2",
+    "nombre": "Marta Pérez",
+    "categoria": "standard",
+    "saldo": 10860.86,
+    "ultimaTransaccion": "2026-05-16",
+    "sucursal": {
+      "id": 12,
+      "ciudad": "Madrid"
+    }
+  },
+  {
+    "id": "3",
+    "nombre": "Jorge García",
+    "categoria": "standard",
+    "saldo": 11785.74,
+    "ultimaTransaccion": "2026-03-08",
+    "sucursal": {
+      "id": 9,
+      "ciudad": "Valencia"
+    }
+  },
+  {
+    "id": "4",
+    "nombre": "Jorge Ramírez",
+    "categoria": "premium",
+    "saldo": 5324.52,
+    "ultimaTransaccion": "2026-03-08",
+    "sucursal": {
+      "id": 5,
+      "ciudad": "Barcelona"
+    }
+  },
+  {
+    "id": "5",
+    "nombre": "Carlos Pérez",
+    "categoria": "premium",
+    "saldo": 17295.75,
+    "ultimaTransaccion": "2026-04-19",
+    "sucursal": {
+      "id": 7,
+      "ciudad": "Bilbao"
+    }
+  },
+  {
+    "id": "6",
+    "nombre": "Jorge Sánchez",
+    "categoria": "premium",
+    "saldo": 16781.22,
+    "ultimaTransaccion": "2026-11-12",
+    "sucursal": {
+      "id": 4,
+      "ciudad": "Marbella"
+    }
+  },
+  {
+    "id": "7",
+    "nombre": "Laura Pérez",
+    "categoria": "premium",
+    "saldo": 4951.33,
+    "ultimaTransaccion": "2026-02-11",
+    "sucursal": {
+      "id": 3,
+      "ciudad": "Sevilla"
+    }
+  },
+  {
+    "id": "8",
+    "nombre": "Luis Ramírez",
+    "categoria": "standard",
+    "saldo": 19851.82,
+    "ultimaTransaccion": "2026-07-21",
+    "sucursal": {
+      "id": 1,
+      "ciudad": "Madrid"
+    }
+  },
+  {
+    "id": "9",
+    "nombre": "Lucía Ramírez",
+    "categoria": "premium",
+    "saldo": 5024.79,
+    "ultimaTransaccion": "2026-02-21",
+    "sucursal": {
+      "id": 20,
+      "ciudad": "Barcelona"
+    }
+  }
+]
